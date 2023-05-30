@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Elliot
+- 💙 I'm a rising senior at Duke University studying EECS and this space is for documenting it all!
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliothha/)
+- 📫 Feel free to reach out to me at [elliot.ha@duke.edu](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aehh19%40duke.edu)
 
 <!--
 **elliothha/elliothha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
