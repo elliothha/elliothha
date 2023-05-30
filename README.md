@@ -1,6 +1,6 @@
 ### Hi, I'm Elliot
 - 💙 I'm a rising senior at Duke University studying EECS and this space is for documenting it all!
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliothha/)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliothha/).
 - 📫 Feel free to reach out to me at [elliot.ha@duke.edu](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aehh19%40duke.edu)
 
 <!--
