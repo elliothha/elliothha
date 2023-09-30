@@ -1,6 +1,12 @@
 ### Hi, I'm Elliot
-- Senior at Duke University, Pratt School of Engineering. Will be graduating May 2024 with B.S. Computer Science, B.S.e Electrical & Computer Engineering
+- Current senior at Duke University, Pratt School of Engineering. Will be graduating May 2024 with B.S. Computer Science, B.S.e Electrical & Computer Engineering
+- Interests and experience in full-stack development, generative AI, and quantitative analysis
 - Reach me at [elliot.ha@duke.edu](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aehh19%40duke.edu) or [linkedin.com/in/elliothha](https://www.linkedin.com/in/elliothha/)
+
+Languages
+<p>
+  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
+</p>
 
 <!--
 **elliothha/elliothha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
