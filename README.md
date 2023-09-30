@@ -1,7 +1,6 @@
 ### Hi, I'm Elliot
-- 💙 I'm a rising senior at Duke University studying EECS and this space is for documenting it all :)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/elliothha/).
-- 📫 Feel free to reach out to me at [elliot.ha@duke.edu](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aehh19%40duke.edu)
+- Senior at Duke University, Pratt School of Engineering. Will be graduating May 2024 with B.S. Computer Science, B.S.e Electrical & Computer Engineering
+- Reach me at [elliot.ha@duke.edu](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aehh19%40duke.edu) or [linkedin.com/in/elliothha](https://www.linkedin.com/in/elliothha/)
 
 <!--
 **elliothha/elliothha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
