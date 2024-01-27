@@ -4,6 +4,6 @@
 
 ---
 
-[elliothha.tech](elliothha.tech)
+[elliothha.tech](https://elliothha.tech/)
 
 
