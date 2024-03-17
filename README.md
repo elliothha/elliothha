@@ -9,7 +9,7 @@
 
 Currently working on finishing up various [generative model](https://github.com/elliothha/generative-modeling-zoo) implementations, notably Transformers and flow-based models. As well as this, I'm working in the RL space adapting the [AlphaGo Zero](https://www.nature.com/articles/nature24270) architecture to 2v2 chess over at [MANTIS](https://github.com/jwillstaples/MANTIS/tree/master?tab=readme-ov-file) as a senior capstone project, which I'm super excited to see how it turns out :)
 
-Also currently being held hostage writing low-level Verilog for a 5-stage processor pipelines...
+Also currently being held hostage writing low-level Verilog for a 5-stage processor pipelines
 
 ---
 
