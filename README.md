@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/elliothha/elliothha)
+![GitHub last commit](https://img.shields.io/github/last-commit/elliothha/elliothha?display_timestamp=author&style=flat&label=Last%20active)
 
 ## Hi, I'm Elliot
 - Graduating senior at Duke University, Pratt School of Engineering in ECE + CS
