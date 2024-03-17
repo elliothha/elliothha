@@ -1,4 +1,6 @@
-### Hi, I'm Elliot
+![GitHub last commit](https://img.shields.io/github/last-commit/elliothha/elliothha)
+
+## Hi, I'm Elliot
 - Graduating senior at Duke University, Pratt School of Engineering in ECE + CS
 - Open to full-time or internship work in new-grad SWE or ML capacities
 - Feel free to reach out to me at [elliot.ha@duke.edu](https://outlook.office365.com/mail/deeplink/compose?mailtouri=mailto%3Aehh19%40duke.edu) or my [LinkedIn](https://www.linkedin.com/in/elliothha/) ~
